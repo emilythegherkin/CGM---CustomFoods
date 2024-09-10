@@ -28,7 +28,6 @@ class CfgWeapons {
         acex_field_rations_consumeTime = 5;
         acex_field_rations_consumeText = "Consuming Babywel...";
         acex_field_rations_consumeAnims[] = {"ACEX_Eat"};
-        acex_field_rations_consumeSounds[] = {"ACEX_Eat"};
         ACE_isFieldRationItem = 1;
     };
 };
